@@ -1,0 +1,5 @@
+baseURL = 'https://mathiasdonoso.github.io/'
+languageCode = 'en-us'
+title = 'Personal Blog'
+theme = 'archie'
+disqusShortname = 'yourDisqusShortname'
