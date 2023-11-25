@@ -1,4 +1,7 @@
 baseURL = 'https://mathiasdonoso.github.io/'
 languageCode = 'en-us'
-title = 'Personal Blog'
+title = 'Tech stuff'
 theme = 'archie'
+
+[params]
+    mode="auto"
